@@ -1,0 +1,8 @@
+/source/
+/_site/
+__pycache__/
+
+# Working documents, kept local
+/MEV_GASLESS_COMPOSABLES.md
+/INTEGRATION_ACROSS_MAYAN.md
+/RESEARCH_QUEUE.md
